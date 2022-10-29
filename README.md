@@ -1,2 +1,2 @@
-# BeSmart-G-Cart-Manager
+# BeSmart G-Cart-Manager
 business inventory
